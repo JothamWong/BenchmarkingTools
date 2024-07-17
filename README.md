@@ -63,3 +63,7 @@
 * [__mqtt-stresser__](https://github.com/inovex/mqtt-stresser) - Load testing tool to stress MQTT message broker. `Go`
 * [__dhammer__](https://github.com/ipchama/dhammer) - DHCP stress tester and benchmark tool. `Go`
 * [__dnstress__](https://github.com/safedns/dnstress) - A DNS stress testing tool. `C`
+
+## Good Readings
+
+* [__Coordinated Omission__](https://www.scylladb.com/2021/04/22/on-coordinated-omission/) - A blog post on Coordinated Omission and why most load generators overestimate the performance of your system.
